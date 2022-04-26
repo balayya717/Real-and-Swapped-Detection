@@ -1,6 +1,18 @@
 # Real-and-Swapped-Detection
 Model to detect between Real Images and Various GAN Generated Images
 
+## Dependencies
+Tensorflow
+Keras
+Scipy
+Numpy
+Matplotlib
+Tqdm
+openCV
+Pandas
+CUDA Toolkit
+
+## Training the Model
 1. To train the model, first upload the Training.ipynb file to google colab and run the notebook. 
 2. Adjust the epochs according to the requirement.
 3. After that, save the model as a .h5 file.
