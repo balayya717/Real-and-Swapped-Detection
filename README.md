@@ -23,3 +23,4 @@ To load the datasets from kaggle, firstly, you should get the API token and save
 
 To run the pretrained model, which is uploaded as ‘completed_trained_model.h5’, open the prediction.ipynb notebook in google colab and mount the model. Then run the cells respectively. 
 
+For a clear demo, refer <code>Demo-video.mp4</code> 
