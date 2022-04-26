@@ -21,6 +21,6 @@ CUDA Toolkit
 
 To load the datasets from kaggle, firstly, you should get the API token and save as kaggle.json and mount it to the colab and run the cells given wrt the datasets.
 
-To run the pretrained model, which is uploaded as ‘completed_trained_model.h5’, open the prediction.ipynb notebook in google colab and mount the model. Then run the cells respectively. 
+To run the pretrained model, which is uploaded as ‘<code>completed_trained_model.h5</code>’, open the prediction.ipynb notebook in google colab and mount the model. Then run the cells respectively. 
 
-For a clear demo, refer <code>Demo-video.mp4</code> 
+For a clear demo, refer <code>Demo-video.mp4</code> and refer <code>Report-1.pdf</code> for clear understanding of the model. 
