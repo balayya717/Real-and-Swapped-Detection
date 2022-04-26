@@ -14,6 +14,10 @@ Pandas
 CUDA Toolkit
 ```
 
+## Datasets used
+1. https://www.kaggle.com/ciplab/real-and-fake-face-detection
+2. https://www.kaggle.com/xhlulu/densenet-on-face-classification
+
 ## Training the Model
 1. To train the model, first upload the Training.ipynb file to google colab and run the notebook. 
 2. Adjust the epochs according to the requirement.
