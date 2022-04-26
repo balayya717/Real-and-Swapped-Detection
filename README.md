@@ -2,6 +2,7 @@
 Model to detect between Real Images and Various GAN Generated Images
 
 ## Dependencies
+```bash
 Tensorflow
 Keras
 Scipy
@@ -11,6 +12,7 @@ Tqdm
 openCV
 Pandas
 CUDA Toolkit
+```
 
 ## Training the Model
 1. To train the model, first upload the Training.ipynb file to google colab and run the notebook. 
